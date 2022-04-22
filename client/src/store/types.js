@@ -1,0 +1,5 @@
+// Products actions
+export const PRODUCTS = {
+  SET_LOADING: "PRODUCTS_SET_LOADING",
+  LOAD_SUCCESS: "PRODUCTS_LOAD_SUCCESS",
+};
