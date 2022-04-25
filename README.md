@@ -3,7 +3,7 @@
 An example app in React (frontend) with Redux Thunk and Node.js (backend)
 
 ## Instructions:
-Create the file ``default.json`` with your mongodb credentials
+Create the file ``default.json`` in server/config with your mongodb credentials
 
 { \
   "localMongoURI": "", \
